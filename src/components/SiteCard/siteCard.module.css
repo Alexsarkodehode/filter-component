@@ -1,0 +1,18 @@
+.cardList {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+}
+
+
+
+.text {
+    font-weight: bold;
+}
+
+.img {
+    height: 200px;
+    width: auto;
+}

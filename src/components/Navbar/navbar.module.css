@@ -1,0 +1,25 @@
+.nav {
+    margin-bottom: 5rem;
+    background-color: #2e2b2b;
+}
+
+.ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    /* gap: 2rem; */
+    /* padding: 0; */
+}
+
+.li {
+    padding: 2rem;
+    transition: 0.1s ease-in;
+}
+li:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.p {
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Link",
+        "quote": "I'm so hungry, I could eat an octorok!",
+        "imageUrl": "https://i.redd.it/lb7muaemn6091.jpg"
+    },
+    {
+        "name": "Zelda",
+        "quote": "You've got to be kidding me!",
+        "imageUrl": "https://images.nintendolife.com/e4083c3c1159f/zelda-the-wand-of-gamelon-cd-i.900x.jpg"
+    },
+    {
+        "name": "Ganon",
+        "quote": "You must die!",
+        "imageUrl": "https://www.svg.com/img/gallery/the-embarrassing-zelda-games-that-ended-up-on-philips-cd-i/l-intro-1610035352.jpg"
+    },
+    {
+        "name": "Gwonam",
+        "quote": "Squadallah! We're off!",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhhhW_0kdJskX0bTjmZakkhhSC1-H4BX2gBLVejic3Bp_FVTAyEStRP5bfXUClRn8u-4&usqp=CAU"
+    },
+    {
+        "name": "Morshu",
+        "quote": "Sorry Link, I can't give credit. Come back when you're a little..Mmmmmmh...richer",
+        "imageUrl": "https://i.kym-cdn.com/entries/icons/facebook/000/001/965/Morshu_-_Original__HD_1080__0-5_screenshot.jpg"
+    },
+    {
+        "name": "King Harkinian",
+        "quote": "That's what all true warriors strive for!",
+        "imageUrl": "https://www.giantbomb.com/a/uploads/original/0/7395/2530133-11.png"
+    }
+]
